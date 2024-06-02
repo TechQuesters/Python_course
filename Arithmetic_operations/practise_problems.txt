@@ -1,0 +1,29 @@
+Q1.WAP(Write a program) to input two numbers and find sum.    
+
+Q2.WAP to input two numbers and find multiplication.    
+
+Q3.WAP to input number and calculate its square and cube.   
+
+Q4.WAP to input length and breadth of a rectangle and calculate its area. Area=Length*Breadth.  
+
+Q5.WAP to input radius and calculate area of circle and circumference of a circle. Area of circle = 3.14*r*r, Circumference of circle = 2*3.14*r  
+
+Q6.WAP to input radius and height of a cylinder and calculate volume of cylinder. Volume=3.14*r*r*h 
+
+Q7.WAP to input principal, rate, time and calculate Simple Interest. Simple Interest=Principal*Rate*Time/100.  
+
+Q8.WAP to Input 5 subject marks of a student and find total marks and percentage obtained by the student.
+
+Q9.WAP to convert temperature from Fahrenheit to Celsius. C=(F-32)*5/9.   
+
+Q10.WAP to convert temperature from Celsius to Fahrenheit. F=C*9/5+32. 
+
+Q11.WAP to Input distance (in km) and convert in meter, centimeter, and inches.   
+
+Q12.WAP to Input two numbers and swap them.(Hint- Use a 3rd variable or do some math to find another way)
+
+Q13.WAP to Input two numbers and swap them without using 3rd variable. 
+
+Q14.WAP to Input minutes and convert in hours and minutes. 
+
+Q15.WAP to input total number of days and convert it into years, months, weeks, and days.
