@@ -19,5 +19,5 @@ name="pyhton_course" # string variable name
 print(name)
 
 # or
-# can even pass multiple variables
+# can even pass multiple variables or values separated by commas(,)
 print(name,"is a playlist provided by TechQuesters")
